@@ -1,0 +1,7 @@
+.wp_simple_association_manager_association-member{
+	display: block;
+}
+.wp_simple_association_manager_name,
+.wp_simple_association_manager_surname{
+	display:inline-block;
+}

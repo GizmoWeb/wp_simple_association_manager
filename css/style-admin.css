@@ -1,0 +1,26 @@
+/**
+ * ADMIN
+ */
+#post-body #normal-sortables {
+	min-height: 0;
+}
+#wp_simple_association_manager_association-member_section .field {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+#wp_simple_association_manager_association-member_section .field input {
+	display: block;
+}
+#wp_simple_association_manager_association-member_section .field input[type="checkbox"] {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6px;
+}
+#wp_simple_association_manager_groups_box_ID .categorychecklist > li{
+	margin-bottom: 10px;
+}
+#wp_simple_association_manager_groups_box_ID .hidden{
+	visibility:hidden;position:absolute
+}
